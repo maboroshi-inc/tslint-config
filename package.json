@@ -1,0 +1,18 @@
+{
+  "name": "@maboroshi/tslint-config",
+  "version": "1.0.0",
+  "description": "Our standard lint configurations for TypeScript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maboroshi-inc/tslint-config.git"
+  },
+  "author": "Maboroshi Co., Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maboroshi-inc/tslint-config/issues"
+  },
+  "homepage": "https://github.com/maboroshi-inc/tslint-config#readme"
+}
