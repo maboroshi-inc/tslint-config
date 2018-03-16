@@ -2,6 +2,7 @@
   "name": "@maboroshi/tslint-config",
   "version": "1.0.0",
   "description": "Our standard lint configurations for TypeScript",
+  "main": "tslint.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
