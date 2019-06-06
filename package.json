@@ -19,7 +19,7 @@
   "dependencies": {
     "@maboroshi/prettier-config": "^1.0.0",
     "tslint-config-prettier": "^1.15.0",
-    "tslint-config-standard": "^7.1.0",
+    "tslint-config-standard": "^8.0.1",
     "tslint-plugin-prettier": "^1.3.0"
   },
   "peerDependencies": {
